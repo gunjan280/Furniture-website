@@ -1,5 +1,3 @@
-# Furniture-website
-
 
 <div align="center">
   
